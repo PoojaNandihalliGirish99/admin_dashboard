@@ -6,7 +6,7 @@ import { mockTransactions } from "../../data/mockData"
 import { DownloadOutlined, EmailSharp, PersonAdd, PointOfSale, Traffic } from '@mui/icons-material'
 import LineChart from '../../components/LineChart'
 import BarChart from '../../components/BarChart'
-import PieChart from '../../components/PieChart'
+// import PieChart from '../../components/PieChart'
 import GeographyChart from '../../components/GeographyChart'
 import ProgressCircle from '../../components/ProgressCircle'
 import StatBox from '../../components/StatBox'
